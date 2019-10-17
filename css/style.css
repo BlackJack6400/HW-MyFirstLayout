@@ -53,3 +53,14 @@ li {
     max-width: 370px;
     width: 100%;
    }
+
+   .logo{
+       position: absolute;
+       top: 600px;
+       left: -60px;
+       z-index: -100;
+   }
+
+   .text{
+       margin-right: 40px;
+   }
